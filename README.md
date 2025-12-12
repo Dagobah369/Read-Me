@@ -59,7 +59,7 @@ Unlike the spectral problems, the Beal Conjecture was treated via **Numerical Ex
 
 ## 🛡️ License & Reproducibility
 **Author:** Andy Ta, Independent Researcher.  
-**Date:** December 21, 2025 (Solstice Release).
+**Date:** December 21, 2025
 
 This work is released into the **Public Domain** (CC0). You are free to copy, distribute, and analyze these documents. The goal is to advance human understanding through open science.
 
