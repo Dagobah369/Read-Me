@@ -20,7 +20,7 @@ This collection is structured as a logical progression, starting from the founda
 
 | ID | File Name | Subject | Key Result |
 |:---|:---|:---|:---|
-| **0** | [**0. The_Spectral_Coherence.pdf**](https://github.com/Dagobah369/The_Spectral_Coherence.pdf) | **The Foundation** | Establishes the universal invariant $E[C_{10}] = 0.9$ for stationary systems. |
+| **0** | [**0. The_Spectral_Coherence.pdf**](./1.%20The_Spectral_Coherence.pdf) | **The Foundation** | Establishes the universal invariant $E[C_{10}] = 0.9$ for stationary systems. |
 | **1** | [**1. Riemann_Hypothesis.pdf**](./1.%20Riemann_Hypothesis.pdf) | **Riemann Hypothesis** | Proves $\mathcal{R}(s)=1/2$ via Weil positivity and spectral alignment. |
 | **2** | [**2. Yang_Mills.pdf**](./2.%20Yang_Mills.pdf) | **Yang-Mills Mass Gap** | Demonstrates $\Delta > 0$ via reflection positivity and correlation decay. |
 | **3** | [**3. Hodge.pdf**](./3.%20Hodge.pdf) | **Hodge Conjecture** | Proves algebraicity of rational classes via spectral noise exclusion ($\epsilon=0$). |
